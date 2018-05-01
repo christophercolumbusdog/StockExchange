@@ -1,0 +1,8 @@
+https://github.com/dropwizard/dropwizard/issues/1217i
+
+Apparently there are issues connecting to multiple databases, although it seems to have been fixed. Still don't know if multiple bundles are the way to go or not though...
+
+Good reference repo: https://github.com/dropwizard/dropwizard/blob/master/dropwizard-example/src/test/java/com/example/helloworld/resources/PeopleResourceTest.java
+https://github.com/dropwizard/dropwizard/blob/master/docs/source/manual/testing.rst
+
+
